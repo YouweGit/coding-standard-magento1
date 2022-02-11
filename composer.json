@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "mediact/coding-standard": "dev-feature/OTPBBBBBZP-117"
+        "youwe/coding-standard": "dev-master"
     },
     "repositories": [
         {
